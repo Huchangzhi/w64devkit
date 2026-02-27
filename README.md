@@ -12,6 +12,7 @@ Included tools:
 * [busybox-w32][bb] : standard unix utilities, including sh
 * [Vim][vim] : powerful text editor
 * [nano][] : simple text editor
+* [Git][git] : distributed version control
 * [Universal Ctags][ctags] : source navigation
 
 It is an MSVCRT toolchain with pthreads, C++11 threads, and OpenMP. All
@@ -215,6 +216,7 @@ binaries.
 [doc-std-cpp]: https://en.cppreference.com/w/cpp/links
 [doc-win32]: https://web.archive.org/web/20220922051031/http://www.laurencejackson.com/win32/
 [gdb]: https://www.gnu.org/software/gdb/
+[git]: https://git-scm.com/
 [gpl]: https://www.gnu.org/licenses/gcc-exception-3.1.en.html
 [lic1]: https://sourceforge.net/p/mingw-w64/mingw-w64/ci/master/tree/COPYING.MinGW-w64-runtime/COPYING.MinGW-w64-runtime.txt
 [lic2]: https://sourceforge.net/p/mingw-w64/mingw-w64/ci/master/tree/mingw-w64-libraries/winpthreads/COPYING
