@@ -11,6 +11,7 @@ Included tools:
 * [GNU Make][make] : standard build tool
 * [busybox-w32][bb] : standard unix utilities, including sh
 * [Vim][vim] : powerful text editor
+* [nano][] : simple text editor
 * [Universal Ctags][ctags] : source navigation
 
 It is an MSVCRT toolchain with pthreads, C++11 threads, and OpenMP. All
